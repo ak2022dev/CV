@@ -1,6 +1,6 @@
 ## Amir Khan
 
-I am rebooting as a software developer, returning to my degree and research specialism after extensive experience in education with a diverse career chart including the field of law.
+I am re-training to become a software developer, returning to my degree and research specialism after extensive experience in education with a diverse career chart including the field of law.
 
 ## Projects
 
@@ -20,15 +20,17 @@ _Tutor_ of A-Level Mathematics, Physics and Chemistry; GCSE Mathematics, Science
 **Malik Law Chambers Solicitors** (July 2015 - April 2018)  
 _Paralegal / Caseworker_
 
-- Administrative assistant in many successful cases, many involving human rights.
-- Many clients recommended the firm to others after appreciating my attention to detail.
+- Administrative assistant in many successful cases, mostly involving human rights.
+- Clients often recommended the firm to others after appreciating my attention to detail.
 
 **Private Tutor and IT Consultant - self-employed** (July 2011 - July 2015)  
 _Tutor_ of 11+ numeracy, literacy, verbal and non-verbal reasoning.
 _IT Consultant_ on a number of short-term projects.
 
-- Administrative assistant in many successful cases, many involving human rights.
-- Many clients recommended the firm to others after appreciating my attention to detail.
+- All students made excellent progress.
+- Quality-checked AWS Cloud Development project for a start-up.
+- Market research for a new app then launched on iOS and Android.
+- Website planning and company logo design.
 
 ## Skills
 
