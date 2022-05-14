@@ -44,6 +44,36 @@ _Teacher of A Level Applied ICT, A Level Physics, Diploma in Digital Application
 - Taught BTEC National Extended Diploma for IT Practitioners.
 - Delivered modules in wide range of programming, systems administration, systems security, business and software engineering subjects.
 
+**Rydens School** (September 2006 - September 2007)  
+_Trainee Teacher under on-the-job fast-track Graduate Teacher Programme_
+
+- Todo
+- Todo
+
+**Oxford and Cambridge Tutors** (January 2000 - September 2007)  
+_Trainee Teacher under on-the-job fast-track Graduate Teacher Programme_
+
+- Todo
+- Todo
+
+**Expert Associates Ltd** (January 1999 - December 1999)  
+_Software/Systems Engineer_
+
+- Todo
+- Todo
+
+**Imperial College London** (October 1994 - January 2002)  
+_Teaching Assistant_
+
+- Todo
+- Todo
+
+**Eurotherm Systems** (January 1994 - September 1994)  
+_Software Engineer_
+
+- Todo
+- Todo
+
 ## Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
