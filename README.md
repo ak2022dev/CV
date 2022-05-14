@@ -32,12 +32,17 @@ _IT Consultant_ on a number of short-term projects.
 - Market research for a new app then launched on iOS and Android.
 - Website planning and company logo design.
 
-**Amersham and Wycombe College** (July 2015 - April 2018)  
+**Amersham and Wycombe College** (January 2011 - July 2011)  
 _Lecturer in Computing_
 
 - Taught BTEC National Extended Diploma for IT Practitioners.
 - Delivered modules in wide range of programming, systems administration, systems security, business and software engineering subjects.
 
+**Saint Paul's Catholic College** (September 2007 - December 2010)  
+_Teacher of A Level Applied ICT, A Level Physics, Diploma in Digital Applications_
+
+- Taught BTEC National Extended Diploma for IT Practitioners.
+- Delivered modules in wide range of programming, systems administration, systems security, business and software engineering subjects.
 
 ## Skills
 
