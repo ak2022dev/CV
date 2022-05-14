@@ -1,6 +1,6 @@
 ## Amir Khan
 
-I am re-training to become a software developer, returning to my degree and research specialism after extensive experience in education with a diverse career chart including the field of law.
+I am re-training to become a software developer, returning to my degree and research specialism after extensive experience in education and a career spanning a number of fields, including law.
 
 ## Projects
 
