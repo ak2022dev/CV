@@ -32,6 +32,13 @@ _IT Consultant_ on a number of short-term projects.
 - Market research for a new app then launched on iOS and Android.
 - Website planning and company logo design.
 
+**Amersham and Wycombe College** (July 2015 - April 2018)  
+_Lecturer in Computing_
+
+- Taught BTEC National Extended Diploma for IT Practitioners.
+- Delivered modules in wide range of programming, systems administration, systems security, business and software engineering subjects.
+
+
 ## Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
