@@ -1,6 +1,6 @@
-## Your Name
+## Amir Khan
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am rebooting as a software developer, returning to my degree and research specialism after extensive experience in education with a diverse career chart including the field of law.
 
 ## Projects
 
@@ -11,15 +11,24 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Private Tutor - self-employed** (April 2018 - current)  
+_Tutor_ of A-Level Mathematics, Physics and Chemistry; GCSE Mathematics, Sciences and English.
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Excellent results and outstanding progress throughout.
+- Often families have insisted I work with younger siblings after an elder has succeeded with me.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Malik Law Chambers Solicitors** (July 2015 - April 2018)  
+_Paralegal / Caseworker_
 
-- Any experience relevent to software development
+- Administrative assistant in many successful cases, many involving human rights.
+- Many clients recommended the firm to others after appreciating my attention to detail.
+
+**Private Tutor and IT Consultant - self-employed** (July 2011 - July 2015)  
+_Tutor_ of 11+ numeracy, literacy, verbal and non-verbal reasoning.
+_IT Consultant_ on a number of short-term projects.
+
+- Administrative assistant in many successful cases, many involving human rights.
+- Many clients recommended the firm to others after appreciating my attention to detail.
 
 ## Skills
 
