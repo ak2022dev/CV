@@ -34,6 +34,9 @@ I am re-training to become a software developer, returning to my degree and rese
 | ---------------------------- | ----------------- | ----------------- |
 | **Independent software project for personal use**            | A Linux and Windows app for specialised task tracking | Java / Swing |
 | **Neural Network Simulation library** | Models a range of neural network types e.g. Perceptron, Kohonen | Modern C++ ported from original I built using Visual C++ / Microsoft Foundation Classes in mid-90s              |
+| OHM (Objective Hardware Modelling Tools) | Compilation tools for object-oriented component-based hardware software co-design | Java / Perl / compiler compilers |
+| Building Architecture Display | Simple wireframe building construction and walkthrough tool | C / Motif for X Window System under Unix |
+
 
 ## Work Experience
 
