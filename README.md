@@ -21,45 +21,38 @@ I am re-training to work as a software developer, returning to my degree and res
 - Masters project of C++ Neural Network Simulation Library which I conceived and completed individually was highly commended and led to research staff insisting I stay in the department for MPhil/PhD despite having offers elsewhere.
 - Received top-grade in "Communicating Science" journalism module as part of my degree.
 
-#### Any other qualifications
+#### Other qualifications and training
 
+- QTS - Fully Qualified Teacher Status (Secondary Education) to GTC standard.
 - A Levels in Mathematics, Physics, Chemistry, English Language and Literature, Film Studies; AS Level in Psychology (A/B grades).
 - First three above were full time in school, remainder part-time evening classes for pleasure.
 - Cambridge STEP in Physics.
-- GCSEs 9 Grade As including French and Economics.
+- GCSEs. 9 Grade As including French and Economics.
+- I have completed numerous Adult Education courses including training in Stress Management and Assertiveness.
 
-## Skills
+## Key personal attributes
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+#### Passion for learning independently and deeply 
 
--STAR
--What was the situation/task? (ST)
+- When training full-time as a teacher on a fast-track route, I was studying A Level English Language and Literature for fun and my students knew that as well as being a teacher of A Level, I was a very committed student myself. I showed them all of the books and resources I was using to prepare for my exams!
+- My research background and IT background were both inspired by this passion and still are. Computing gives me a good reason to always keep learning!
+- I love to deep-dive into whatever topics I am covering and use teacher / course recommended resources just as a starting point to choosing my own.
+-  Currently I have a list of about ten professional level texts that are fascinating me and I have already been using extensively for my training with Makers.
 
--How was the skill used?
+#### Smart-working even when heavily loaded
 
--What did you do? (action)
+- As a paralegal I built my own to-do-list manager using Microsoft Excel, which I set up directly according to the very high workload, tight deadline conditions set by my manager.
+- As a teacher I experimented and refined my time and resource organisation techniques to optimise my productivity. I used mind-mapping software to rapidly help me plan the large number of lessons I needed to deliver daily. I learned features of administrative tools to help with issuing rewards for positive behaviour management. 
+- I kept my resources very well-organised to reduce time spent on admin work.
 
--What was the result?
+#### Excellent rapport building, communication and people skills
 
+- As a paralegal, customer care when dealing with clients was crucial, especially as their circumstances were often stressful and the outcomes of their cases could deeply affect their lives and their family's. Due to my politeness and professionalism I was often given feedback from senior staff that clients had praised my personal care and attention in supporting them as well as in eliciting their needs for administrative tasks.
+- As a private tutor I often had to work with students initially disgruntled at having extra work to do due to their parents choosing to employ me. I have been extremely satisfied with student attainment, repeatedly, over the years, but also touched at how appreciative initially reluctant students became as a result of my tuition. One shed tears and claimed it was the end of an era during her last lesson. Another called me a saint amongst tutors!
+- As a school teacher, I had to relate effectively with parents as well as students. In one scenario a usually model-behaviour student was issued a detention by me. Initially her parent responded in writing complaining and refusing her to attend as required. After I responded professionally with full details of the incident, explaining sensitively that is was a matter of whole-school policy in-line with behaviour management training we implement fairly, irrespective of student, he thanked me for explaining and she attended as requested with no misbehaviour thereafter.
+- I maintained strong relationships with support staff in school (e.g. IT support, lab technicians) and found they helped me with pleasure if exceptional needs arose.
 
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-
-## Projects
+## Software Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
