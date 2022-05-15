@@ -93,6 +93,7 @@ _IT Consultant_ on a number of short-term projects.
 
 - All students made excellent progress.
 - Quality-checked design and implementation of AWS Cloud Development project for a start-up firm.
+- Designed and developed a specialist tast tracking app for personal use as nothing close to meeting my needs existed at the time. (I still use it!)
 - Market research for a new app then launched on iOS and Android.
 - Website planning and company logo design.
 
