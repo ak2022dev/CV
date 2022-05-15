@@ -23,7 +23,10 @@ I am re-training to become a software developer, returning to my degree and rese
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+- A Levels in Mathematics, Physics, Chemistry, English Language and Literature, Film Studies; AS Level in Psychology (A/B grades).
+- First three above were full time in school, remainder part-time evening classes for pleasure.
+- Cambridge STEP in Physics.
+- GCSEs 9 Grade As including French and Economics.
 
 ## Projects
 
