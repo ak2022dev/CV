@@ -6,19 +6,20 @@ I am re-training to become a software developer, returning to my degree and rese
 
 #### Makers Academy (April 2022 - current)
 - Fast-track training in software development with initial focus on Ruby and related tools.
-- Emphasis on Agile techniques such at paired coding and test-driven development
+- Emphasis on Agile techniques such at paired coding and test-driven development.
 
 #### Imperial College London (joint with Oxford University and Smith System Engineering) (October 1995 - January 2002)
 
 - Postgraduate research working towards MPhil / PhD (part time)
-- Designed, built and published research on component-based object-oriented hardware/software co-design tools for FPGA-based custom computing
+- Designed, built and published research on component-based object-oriented hardware/software co-design tools for FPGA-based custom computing.
 - Used Java, Perl and supporting compiler construction tools targetted for Linux and Windows platforms.
 
 #### Imperial College London (October 1991 - June 1995)
 
 - Computing:Software Engineering MEng (2:1 / 1 borderline)
-- Studied Software Engineering in detail, including object-oriented, procedural, functional and logical languages (C++, C, SQL, Smalltalk, Miranda, Modula-2, Prolog, Assembler); operating systems, architectures, design techniques, computer hardware, distributed systems, logic and mathematics.
+- Modules including object-oriented, procedural, functional and logical languages (C++, C, SQL, Smalltalk, Miranda, Modula-2, Prolog, Assembler); operating systems, architectures, design techniques, computer hardware, distributed systems, logic, mathematics, management and accounting.
 - Masters project of C++ Neural Network Simulation Library which I conceived and completed individually was highly commended and led to research staff insisting I stay in the department for MPhil/PhD despite having offers elsewhere.
+- Received top-grade in "Communicating Science" journalism module as part of my degree.
 
 #### Any other qualifications
 
