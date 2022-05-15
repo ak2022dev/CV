@@ -41,26 +41,29 @@ _Lecturer in Computing_
 **Saint Paul's Catholic College** (September 2007 - December 2010)  
 _Teacher of A Level Applied ICT, A Level Physics, Diploma in Digital Applications_
 
-- Taught BTEC National Extended Diploma for IT Practitioners.
-- Delivered modules in wide range of programming, systems administration, systems security, business and software engineering subjects.
+- Whole school responsibility for Gifted and Talent Students and AimHigher, including policy drafting and budget allocation decisions with partner schools.
+- Good student results and progress throughout.
 
-**Rydens School** (September 2006 - September 2007)  
+**Rydens School & Saint Paul's Catholic College** (September 2006 - September 2007)  
 _Trainee Teacher under on-the-job fast-track Graduate Teacher Programme_
 
-- Todo
-- Todo
+- Headteacher at Saint Paul's offered me a tailor-made job at end of training on strength of my teaching that he had frequently observed.
+- Good student results and progress throughout at A Level and Key Stages 3+4.
 
 **Oxford and Cambridge Tutors** (January 2000 - September 2007)  
-_Trainee Teacher under on-the-job fast-track Graduate Teacher Programme_
+_Private tutor to postgraduate, undergraduate, A Level and GCSE students._
 
-- Todo
-- Todo
+- One of the agency's longest-standing and most depended-upon tutors.
+- The head of the organisation personally recommended me to his own family members.
+- Tutored programming, software engineering, business, mathematics and science topics.
+- Achieved outstanding (including prize-winning results) throughout.
 
 **Expert Associates Ltd** (January 1999 - December 1999)  
 _Software/Systems Engineer_
 
-- Todo
-- Todo
+- Design and coding of Workflow Scheduling Manager module in suite of applications.
+- Coded in Microsoft Visual Basic with database back-end.
+- Performed basic systems administration including network setup and software installations.
 
 **Imperial College London** (October 1994 - January 2002)  
 _Teaching Assistant_
