@@ -18,7 +18,8 @@ I am re-training to become a software developer, returning to my degree and rese
 
 - Computing:Software Engineering MEng (2:1 / 1 borderline)
 - Studied Software Engineering in detail, including object-oriented, procedural, functional and logical languages (C++, C, SQL, Smalltalk, Miranda, Modula-2, Prolog, Assembler); operating systems, architectures, design techniques, computer hardware, distributed systems, logic and mathematics.
-- 
+- Masters project of C++ Neural Network Simulation Library which I conceived and completed individually was highly commended and led to research staff insisting I stay in the department for MPhil/PhD despite having offers elsewhere.
+
 #### Any other qualifications
 
 That in some arguable way make you a better software developer or well-rounded person
