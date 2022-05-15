@@ -10,7 +10,7 @@ I am re-training to work as a software developer, returning to my degree and res
 
 #### Imperial College London jointly with Oxford University and Smith System Engineering (October 1995 - January 2002)
 
-- Postgraduate research working towards MPhil / PhD (part time) EPSRC part-funded
+- Postgraduate research working towards MPhil / PhD (part time) EPSRC part-funded.
 - Designed, built and published research on component-based object-oriented hardware/software co-design tools for FPGA-based custom computing.
 - Used Java, Perl and supporting compiler construction tools targetted for Linux and Windows platforms and Xilinx tools for netlists and routing.
 
