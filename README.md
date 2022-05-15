@@ -35,7 +35,7 @@ I am re-training to become a software developer, returning to my degree and rese
 | **ITT**            | A Linux and Windows app for specialised task tracking | Java / Swing; developed iteratively using traditional Rational Unified Process and UML|
 | **Simple social network web app** | Training tool built to apply learning of Web app technologies | HTML / CSS / PHP / JavaScript / MySQL |
 | **NeSiL (Neural Network Simulation library)** | Models a range of simple neural networks e.g. Perceptron, Kohonen | Modern C++ ported from original I built using Visual C++ / Microsoft Foundation Classes in mid-90s              |
-| **OHM (Objective Hardware Modelling Tools)** | Compilation tools for object-oriented component-based hardware software co-design | Java / Perl / compiler compilers |
+| **OHM (Objective Hardware Modelling Tools)** | Compilation tools for object-oriented component-based hardware software co-design | Java / Perl / compiler-compilers |
 | **Building Architecture Display** | Simple wireframe building construction and walkthrough tool | C / Motif for X Window System under Unix |
 | **Graphical Setpoint Editor** | Graphical tool for building setpoints to be used by industrial controllers | C++ / XVT portable GUI toolkit for Windows, Unix and MacOS |
 | **Workflow Scheduling Manager** | Workflow Scheduling Tool (part of a suite with matching GUIs) | Microsoft Visual Basic with database backend |
