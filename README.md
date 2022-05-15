@@ -32,7 +32,7 @@ I am re-training to become a software developer, returning to my degree and rese
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **ITT**            | A Linux and Windows app for specialised task tracking | Java / Swing; developed iteratively using traditional Rational Unified Process|
+| **ITT**            | A Linux and Windows app for specialised task tracking | Java / Swing; developed iteratively using traditional Rational Unified Process and UML|
 | **Simple social network web app** | Training tool built to apply learning of Web app technologies | HTML / CSS / PHP / JavaScript / MySQL |
 | **NeSiL (Neural Network Simulation library)** | Models a range of simple neural networks e.g. Perceptron, Kohonen | Modern C++ ported from original I built using Visual C++ / Microsoft Foundation Classes in mid-90s              |
 | **OHM (Objective Hardware Modelling Tools)** | Compilation tools for object-oriented component-based hardware software co-design | Java / Perl / compiler compilers |
