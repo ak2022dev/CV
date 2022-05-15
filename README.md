@@ -141,5 +141,4 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 
 ## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+My wide range of interests include open source software (currently a bug-triager for KDE), physical fitness using HIIT, personal development, novels and literature, creative and non-fiction writing, films, world history, world religions and Classical Semitic Languages.
