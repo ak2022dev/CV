@@ -2,6 +2,27 @@
 
 I am re-training to become a software developer, returning to my degree and research specialism after extensive experience in education and a career spanning a number of fields, including law.
 
+## Education
+
+#### Makers Academy (April 2022 - current)
+- Fast-track training in software development with initial focus on Ruby and related tools.
+- Emphasis on Agile techniques such at paired coding and test-driven development
+
+#### Imperial College London (joint with Oxford University and Smith System Engineering) (October 1995 - January 2002)
+
+- Postgraduate research working towards MPhil / PhD (part time)
+- Designed, built and published research on component-based object-oriented hardware/software co-design tools for FPGA-based custom computing
+- Used Java, Perl and supporting compiler construction tools targetted for Linux and Windows platforms.
+
+#### Imperial College London (October 1991 - June 1995)
+
+- Computing:Software Engineering MEng (2:1 / 1 borderline)
+- Studied Software Engineering in detail, including object-oriented, procedural, functional and logical languages (C++, C, SQL, Smalltalk, Miranda, Modula-2, Prolog, Assembler); operating systems, architectures, design techniques, computer hardware, distributed systems, logic and mathematics.
+- 
+#### Any other qualifications
+
+That in some arguable way make you a better software developer or well-rounded person
+
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
@@ -106,26 +127,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Education
-
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
 
