@@ -68,14 +68,13 @@ _Software/Systems Engineer_
 **Imperial College London** (October 1994 - January 2002)  
 _Teaching Assistant_
 
-- Todo
-- Todo
+- Designed and delivered highly successful short-course in Java and Haskell programming for students who were struggling. Many went-on to achieve the highest scores in programming exams at end of year.
+- Tutored a large range of postgraduate and undergraduate topics including Software Engineering, Databases, Operating Systems, Architectures, Compilers and Logic.
 
 **Eurotherm Systems** (January 1994 - September 1994)  
 _Software Engineer_
 
-- Todo
-- Todo
+- Implemented Graphical Setpoint Editor in C++ using portable GUI toolkit targetting Windows, MacOS and Unix.
 
 ## Skills
 
