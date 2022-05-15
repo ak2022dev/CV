@@ -28,6 +28,37 @@ I am re-training to work as a software developer, returning to my degree and res
 - Cambridge STEP in Physics.
 - GCSEs 9 Grade As including French and Economics.
 
+## Skills
+
+Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+(Using a STAR example Paragraph) Consider the questions below.
+
+-STAR
+-What was the situation/task? (ST)
+
+-How was the skill used?
+
+-What did you do? (action)
+
+-What was the result?
+
+
+#### This Skill
+
+- Experience
+- Achievements
+- Evidence (STAR)
+
+#### Another Skill
+
+Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
+
+- I achieved A during my work at B (job, or otherwise)
+- I contributed to the growth of X while doing Y (job, or otherwise)
+- I built this, made this, broke this, fixed this, etc.
+- A link to some on-line evidence (blogs, videos, articles, etc.)
+
+
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
@@ -61,7 +92,7 @@ _Tutor_ of 11+ numeracy, literacy, verbal and non-verbal reasoning.
 _IT Consultant_ on a number of short-term projects.
 
 - All students made excellent progress.
-- Quality-checked AWS Cloud Development project for a start-up.
+- Quality-checked design and implementation of AWS Cloud Development project for a start-up firm.
 - Market research for a new app then launched on iOS and Android.
 - Website planning and company logo design.
 
@@ -108,37 +139,6 @@ _Teaching Assistant_
 _Software Engineer_
 
 - Implemented Graphical Setpoint Editor in C++ using portable GUI toolkit targetting Windows, MacOS and Unix.
-
-## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 
 ## Hobbies
 My wide range of interests include open source software (currently a bug-triager for KDE), physical fitness using HIIT, personal development, novels and literature, creative and non-fiction writing, films, world history, world religions and Classical Semitic Languages.
