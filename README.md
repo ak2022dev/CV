@@ -39,7 +39,7 @@ I am re-training to work as a software developer, returning to my degree and res
 - I love to deep-dive into whatever topics I am covering and use teacher / course recommended resources just as a starting point to choosing my own.
 - When training full-time as a teacher on a fast-track route, I was studying A Level English Language and Literature for fun and my students knew that as well as being a teacher of A Level, I was a very committed student myself. I showed them all of the books and resources I was using to prepare for my exams!
 
-#### Smart-working even when heavily loaded
+#### Smart-working and dependable even when heavily loaded
 
 - As a paralegal I built my own to-do-list manager using Microsoft Excel, which I set up directly according to the very high workload, tight deadline conditions set by my manager.
 - As a teacher I experimented and refined my time and resource organisation techniques to optimise my productivity. I used mind-mapping software to rapidly help me plan the large number of lessons I needed to deliver daily. I learned features of administrative tools to help with issuing rewards for positive behaviour management that saved me time wasted on poor behaviour. 
