@@ -85,7 +85,7 @@ _Tutor_ of A-Level Mathematics, Physics and Chemistry; GCSE Mathematics, Science
 _Paralegal / Caseworker_
 
 - Administrative assistant in many successful cases, mostly involving human rights.
-- Clients often recommended the firm to others after appreciating my attention to detail.
+- Clients often recommended the firm to others after appreciating my attention to detail when collating and preparing case-evidence with them.
 
 **Private Tutor and IT Consultant - self-employed** (July 2011 - July 2015)  
 _Tutor_ of 11+ numeracy, literacy, verbal and non-verbal reasoning.
