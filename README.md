@@ -12,7 +12,7 @@ I am re-training to become a software developer, returning to my degree and rese
 
 - Postgraduate research working towards MPhil / PhD (part time) EPSRC part-funded
 - Designed, built and published research on component-based object-oriented hardware/software co-design tools for FPGA-based custom computing.
-- Used Java, Perl and supporting compiler construction tools targetted for Linux and Windows platforms.
+- Used Java, Perl and supporting compiler construction tools targetted for Linux and Windows platforms and Xilinx tools for netlists and routing.
 
 #### Imperial College London (October 1991 - June 1995)
 
