@@ -41,7 +41,7 @@ I am re-training to work as a software developer, returning to my degree and res
 
 #### Smart-working and dependable even when heavily loaded
 
-- As a paralegal I built my own to-do-list manager using Microsoft Excel, which I set up directly according to the very high workload, tight deadline conditions set by my manager.
+- As a paralegal I set up my own to-do-list manager using Microsoft Excel, which I customised according to cases in the very high workload, tight deadline conditions set by my manager.
 - As a teacher I experimented and refined my time and resource organisation techniques to optimise my productivity. I used mind-mapping software to rapidly help me plan the large number of lessons I needed to deliver daily. I learned features of administrative tools to help with issuing rewards for positive behaviour management that saved me time wasted on poor behaviour. 
 - I kept my paperwork very well-organised to reduce time spent on admin work.
 
