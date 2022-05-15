@@ -32,8 +32,8 @@ I am re-training to become a software developer, returning to my degree and rese
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Independent software project for personal use**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Independent software project for personal use**            | A Linux and Windows app for specialised task tracking | Java / Swing |
+| **Neural Network Simulation library** | Models a range of neural network types e.g. Perceptron, Kohonen | Modern C++ ported from original I built using Visual C++ / Microsoft Foundation Classes in mid-90s              |
 
 ## Work Experience
 
