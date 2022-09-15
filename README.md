@@ -6,7 +6,7 @@ I am re-training to work as a software developer, returning to my degree and res
 
 #### Makers Academy (April 2022 - current)
 - Fast-track training in software development with initial focus on Ruby and related tools.
-- Emphasis on Agile techniques such at paired coding and test-driven development.
+- Emphasis on Agile techniques such as paired coding and test-driven development.
 
 #### Imperial College London jointly with Oxford University and Smith System Engineering (October 1995 - January 2002)
 
